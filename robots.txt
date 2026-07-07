@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://site01senrelaismboro.netlify.app/sitemap.xml
+Sitemap: https://senrelais.netlify.app/sitemap.xml
